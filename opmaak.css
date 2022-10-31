@@ -1,3 +1,8 @@
+body {
+    color:aquamarine;
+
+}
+
 header{
     background-color: aquamarine;
     position: fixed;
@@ -9,16 +14,7 @@ header{
     align-items: center;
     box-shadow: 0 0 25px 0 black;
 }
- main{
-    color:white;
- }
 
- header * { 
-    display: inline; 
- }
-header li { 
-    margin: 20px;
-}
 
 header  li a{
     color: black;
@@ -29,3 +25,35 @@ li{
     float: left;
     
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #222;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+  </style>
+  </head>
+  <body>
+  
+  <ul>
