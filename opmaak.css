@@ -1,9 +1,14 @@
 
-    body {
-      background-image: url("informatica.png");
-      background-color: #cccccc;
-     }
-
+<html>
+<head>
+<style> 
+body {
+  background-image: url("informatica.png")
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
 header{
     background-color: rgb(0, 0, 0);
     position: fixed;
