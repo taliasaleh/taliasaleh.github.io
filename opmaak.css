@@ -1,5 +1,5 @@
 body{
-  background-image: url (<img src="background.webp">).png);
+  background-image: url (../img/background.webp>);
   background-size: cover;
   font-family: sans-serif;
 }
