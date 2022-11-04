@@ -50,5 +50,10 @@ ul {
   </style>
   </head>
   <body>
-  
+  {
+    background-image: url(<img src="background.webp">);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
   <ul>
