@@ -1,5 +1,5 @@
 body{
-  background-image: url ("fotooo").png);
+  background-image: url (<img src="background.webp">).png);
   background-size: cover;
   font-family: sans-serif;
 }
@@ -50,10 +50,4 @@ ul {
   </style>
   </head>
   <body>
-  {
-    background-image: url(<img src="background.webp">);
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: 100% 100%;
-  }
   <ul>
