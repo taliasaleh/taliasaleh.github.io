@@ -59,7 +59,7 @@ ul {
     border: none;
     cursor: pointer;
     padding:20px;
-    margin-top:20px;
+    margin: top 14px;px;
 }
 .mainmenubtn:hover {
     background-color: blue;
@@ -82,5 +82,4 @@ ul {
 .dropdown:hover .dropdown-child {
     display: block;
 }
-  <body>
-  <ul>
+ 
