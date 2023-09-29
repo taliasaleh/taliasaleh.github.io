@@ -70,21 +70,21 @@ ul {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #f8abab;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(243, 239, 239, 0.2);
   z-index: 1;
 }
 
 .dropdown-content a {
-  color: rgb(253, 247, 247);
+  color: rgb(241, 96, 96);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #f5e2e2;}
+.dropdown-content a:hover {background-color: #9e7878;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #a3ada4;}
+.dropdown:hover .dropbtn {background-color: #e2f0e3;}
