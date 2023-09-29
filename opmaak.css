@@ -49,8 +49,8 @@ ul {
   /* Style the navigation links */
   
 .dropbtn {
-  background-color: #323d39;
-  color: rgb(247, 241, 242);
+  background-color: #000000;
+  color: rgb(255, 192, 203);
   padding: 16px;
   font-size: 14px;
   border: none;
